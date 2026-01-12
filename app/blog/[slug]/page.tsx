@@ -9,7 +9,7 @@ export default function Page({ params }: Params) {
       <>
           <h1>Slug: {params.slug}</h1>
           <p>TienTaiii</p>
-          <p>Change run</p>
+          <p>Change run 2</p>
       </>
   );
 }
