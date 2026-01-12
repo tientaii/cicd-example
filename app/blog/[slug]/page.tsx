@@ -8,7 +8,7 @@ export default function Page({ params }: Params) {
   return (
       <>
           <h1>Slug: {params.slug}</h1>
-          <p>TienTaiii</p>
+          <p>Tien Taiii</p>
           <p>Change run 2</p>
       </>
   );
